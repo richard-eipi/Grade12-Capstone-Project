@@ -1,0 +1,7 @@
+When going first, make one move from the opponent ineffective this turn. When the opponent goes first, immune from the effects of their attacking moves and clear their turn-effects when using a move this turn (doesn't count as turn-effect).
+Seidel's Realm_Immune from status effects. Apply an equal amount of magic damage to the opponent when healing. All moves heal 1/3 of maximum HP.
+Seidel's Realm,Enchantment_50_95%____goes first (+1);always effective_Enter {Seidel's Realm} (effective for the entire battle). Block attack damage dealt by the opponent's next attacking move.
+Debris Oblivion,Physical Attack_60_98%_15%_90_dimension_goes first (+2)_Inverse opponent's stats enhancement and transfer own stats reduction to opponent. Apply 200 magic damage.
+Broken Star Dominion,Enchantment_70_95%____goes last (-1)_Raise physical attack, physical and special defense, and speed stats (+1). For the next time, multiply attack damage received by opponent by 2. For the next two turns, all moves will go first (+1).
+Interstellar Cloud,Special Attack_80_98%_5%_135_dimension__Make opponent's abilities and special buffs ineffective for the next turn. Absorb 80 maximum HP from the opponent.
+World's End,Physical Attack_150_100%_20%_160_dimension,spirit_non-missable;always effective_Increase this attack damage by an amount equivalent to 1/3 of HP if in {Seidel's Realm}. Multiply effects of the next move by 2.

@@ -1,0 +1,7 @@
+Moves that go first will clear opponent's turn-effects. Moves that go last will apply an amount of magic damage equivalent to 1/3 of own HP. All moves are always effective.
+
+Tranquill Extinction,Special Attack_60_98%_10%_130_ghost,psychic_goes first (+1); affect both opponents_Apply an amount of magic damage equivalent to 50% of the HP lost by the opponent. Lower opponent's speed stats and accuracy (-2).
+Spiritual Appendage,Enchantment_0_100%_____Inverse opponent's stats enhancements with 2 times bonus. Raise teammate's all stats (+1) and their next two attacking moves will make critical hits. Sacrifice self.
+Reborn From Darkness,Enchantment_0_95%____goes first (+2)_Heal an amount equivalent to the amount of HP lost and apply an amount of magic damage equivalent to the amount healed.
+Awakening,Enchantment_75_95%_____Increase physical attack stats by 50 and maximum HP by 100. All moves heal 300 HP and attack damage received will be no greater than 250 for three turns.
+Final Verdict,Physical Attack_125_98%_20%_150_ghost,psychic_non-missable;always effective_Raise physical attack stats and accuracy (+2). Immune from status effects and stats reduction for three turns.

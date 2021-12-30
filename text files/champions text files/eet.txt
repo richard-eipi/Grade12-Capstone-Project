@@ -1,0 +1,7 @@
+Immune from stats reduction and status effects. Block all magic damage received. All moves are non-missable and always effective.
+Eet's Realm_Stores power from every single type. At the start of every turn, can become a specific type based on types of power owned. Heal 200 HP at the end of every turn. Increase all stats by 10%.*Inexhaustible Resources_When having x types of power, increase healing effects and attack damage by 10x%.
+Imperial Supremacy,Enchantment_25_0%_____Raise all stats (+1). Enter {Eet's Realm} (effective for the entire battle and when absent) and select one type of power to own. Reduce 50% of attack damage dealt by attacking moves received for two turns.
+Rainbow Effulgence,Special Attack_50_100%_10%_120_god__Effective against types owned. Impose randomly two status effects on the opponent.
+Majestic Vertex Array,Enchantment_75_100%_____Clear opponent's stats enhancement. Gain a 500 HP shield. Gain {Inexhaustible Resources} (effective for the entire battle) if in {Eet's Realm}.
+Zenith Absolution,Special Attack_100_100%_5%_140_god__Critical hit if having stats enhancement. For the next time, immune from the effects of the opponent's move.
+Eet's Dynasty,All-in Attack_100% HP-1_100%_0%_100_god_strike z times when having z types of power_

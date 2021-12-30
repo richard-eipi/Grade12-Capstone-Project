@@ -1,0 +1,7 @@
+At the start of every turn, gain a 200 HP shield or recover an equal amount of shield health if already having a shield. At the end of every turn, heal 200 HP if no attack is received this turn; otherwise block all attack damage received next turn. Immune from clearing turn-effects.
+
+Magma Burst,Special Attack_40_95%_80%_80_rock,fire_goes first (+2);affect both opponents_If critical hit, make opponent's status effects ineffective for three turns. Burn the opponent.
+Fire from the Core,Enchantment_70_98%_____Increase all damage dealt or applied by 50% for three turns. All moves heal 1/3 of maximum HP for four turns; apply an equal amount of magic damage when own HP > 50%.
+Seismic Meltdown,Physical Attack_60_95%_10%_145_rock,fire_non-missable_Apply 222 magic damage; double the effect when own HP > opponent's HP.
+Earth is the Limit,Enchantment_75_95%_____Raise physical attack and physical and special defense stats (+2). When having a shield, recover 500 shield health. Move next turn will go first (+2).
+Mountain Crushing Force,Physical Attack_180_95%_5%_160_rock,fire_non-missable;always effective_This attack damage can not be blocked. Forcefully clear opponent's turn-effects. Make two random moves from the opponent ineffective for the entire battle.

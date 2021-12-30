@@ -1,0 +1,10 @@
+bright:spirit,light
+thunderstorm:electricity,machine
+sandstorm:rock,sand
+downpour:ice,water
+forest:grass,bug
+dark:ghost,dark
+foreign dimension:psychic,dimension
+hurricane:wind,flying
+intense heat:dragon,fire
+fighting pit:fighting,elder

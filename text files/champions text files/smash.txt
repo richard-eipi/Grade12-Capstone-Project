@@ -1,0 +1,7 @@
+sdajfkasdjfkadsjflkawejfkasdjfkdsjfkjawef.
+God's Wrath_sadfjkasdjfkasjdfkjasdkjfkdsjf.
+Move1,Special Attack_60_98%_30%_135_fighting_goes first (+2)_
+Move2,Enchantment_45_0%_____
+Move3,Enchantment_75_95%____non-missable;ignore immunity;affect both opponents_
+Move4,Physical Attack_0_95%_5%_90_fighting__
+Move5,Physical Attack_120_98%_5%_150_fighting_non-missable;always effective_

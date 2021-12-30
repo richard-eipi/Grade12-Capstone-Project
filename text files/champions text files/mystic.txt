@@ -1,0 +1,7 @@
+For the first two turns of the battle, make all enchantment moves from the opponent ineffective; if triggered, then apply 350 magic damage and, for the next time, multiply attack damage received by the opponent by 2 (affect both opponents). Make the opponent confused when receiving attack damage < 200.
+
+Wake Up Call,Physical Attack_35_95%_10%_70_ghost__Clear opponent's stats enhancement; if not triggered, then absorb 250 HP from the opponent.
+Nail in the Coffin,Enchantment_50_98%_____Lower opponent's physical and special attack and speed stats (-1). Reduce all attack damage dealt by the opponent by 35% for the entire battle.
+Surreal Manipulation,Special Attack_45_95%_15%_135_ghost_always effective;ignore type disadvantages_Clear opponent's turn-effects. Next two moves will be always effective.
+Mystic Power,Enchantment_55_95%_____Raise special attack (+2) and physical and special defense stats (+1). All moves exchange HP with the opponent if own HP < opponent's HP for four turns.
+Evil Cleansing Shot,Special Attack_70_98%_10%_150_ghost_goes first (+1);non-missable_When going first, make the opponent miss this turn.

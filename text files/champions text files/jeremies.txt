@@ -1,0 +1,7 @@
+Block all damage received when having status effects. Reduce critical hit damage received by 50%. Absorb 200 HP from the opponent at the end of every turn when in {Wonderland}.
+
+Instant Engage,Physical Attack_40_95%_5%_80_fighting_goes first (+2);affect both opponents_Clear opponent's stats enhancement. Lower opponent's physical and special defense stats (-1). Increase all damage received by the opponent by 50% for two turns.
+Phantasmagoric,Enchantment_45_98%_____Raise speed stats (+2). Reduce attack damage received by 50% for three turns. Make the opponent's magic damage be blocked for three turns.
+Flaming Heart,Enchantment_50_0%____goes first (+2) when fighting alongside Muse_Heal 100% of maximum HP. For the next time, keep 1 HP when receiving lethal attack damage. (affect teammate)
+Wild Passion,Enchantment_65_0%____always effective_Raise physical attack and physical and special defense stats and accuracy (+1). For the next two turns, all attacking moves will make critical hits. Immune from clearing stats enhancement and from clearing turn-effects for three turns (affect teammate).
+Thunderous Execution,Physical Attack_140_98%_20%_150_fighting_non-missable_Clear opponent's turn-effects; if triggered, then apply 200 magic damage. Make the opponent worn out if this attack damage > 300.

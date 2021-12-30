@@ -1,0 +1,13 @@
+born murderer:All attacking moves have a 5% chance of seckilling the opponent (independent of all other effects).
+sturdy body:Reduce all physical and special attack damage received by 8%.
+quick tempered:Increase all physical attack damage by 8%.
+thoroughly cunning:Increase all special attack damage by 8%.
+ghostly:Has an 8% chance of making the opponent flinch whenever receiving special attacks (independent of all other effects).
+prickly:Has an 8% chance of making the opponent paralyzed whenever receiving physical attacks (independent of all other effects).
+malevolent:Increase the rate of critical hit by 8% for all attacking moves.
+strongly defiant:Has an 8% chance of keeping 1 HP when receiving lethal attack damage (independent of all other effects).
+somewhat paranoid:Increase the chance of dodging opponent's moves by 8%.
+highly persistent:Reduce all damage received by 30% when own HP < 1/3.
+bloodthirsty:Increase all damage dealt or applied by 30% when opponent HP < 1/3.
+total glutton:Has an 8% chance of healing an amount equivalent to the amount of HP lost at the end of every turn (independent of all other effects).
+counterattack master:Has an 8% chance of rebounding all attack damage received (independent of all other effects).

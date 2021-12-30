@@ -1,0 +1,7 @@
+At the start of the first two turns of the battle, randomly raise four stats (+1). At the start of every turn, can switch positions with teammate. When receiving a critical hit, all attacking moves will make critical hits for the entire battle.
+
+Flash Kick,Physical Attack_25_98%_10%_65_fighting_goes first (+1)_Transfer own stats reduction to opponent. When having stats enhancement, lower corresponding stats from the opponent by the same amount.
+Fighting Spirit,Enchantment_50_0%____always effective_Raise physical and special defense stats (+2). Immune from status effects and heal 200 HP at the end of every turn for four turns.
+Soul Snap,Special Attack_5_95%_20%_130_fighting_goes last (-2);affect both opponents_Clear opponent's turn-effects. Increase this attack damage by an amount equivalent to the total attack damage received by self and teammate this turn.
+Simplicity at Its Finest,Enchantment_60_0%_____For the next two turns, all moves will go first (+1). All moves raise physical and special attack and speed stats (+1) for three turns. For the next two times, reduce attack damage received by 200.
+Rampage,Physical Attack_70_98%_5%_150_fighting_non-missable;always effective_Multiply this attack damage by 2 when opponent has stats reduction.

@@ -1,0 +1,16 @@
+paralyzed:Can not use any move or dodge opponent's moves.
+worn-out:Can not use any attacking move or dodge opponent's moves.
+suffocating:Can not use any enchantment move or dodge opponent's moves. Lose 1/8 maximum hp at the end of every turn.
+frozen:Can not use any move or dodge opponent's moves. Get frostbitten right after un-freezing.
+petrified:Can not use any move or dodge opponent's moves.
+asleep:Can not use any move or dodge opponent's moves. Wake up instantly after getting attacked.
+flinching:50% can not use any move; 50% uses a move by random.
+blind:Reduce accuracy of all moves by 60%.
+burnt:Lose 1/8 maximum hp at the end of every turn. Increase physical attack damage received by 25%.
+poisoned:Lose 1/8 maximum hp at the end of every turn. Increase special attack damage received by 25%.
+frostbitten:Lose 1/8 maximum hp at the end of every turn. Reduce physical attack damage dealt by 25%.
+drowning:Lose 1/8 maximum hp at the end of every turn. Reduce special attack damage dealt by 25%.
+bleeding:Lose 1/5 maximum hp at the end of every turn.
+fractured:Increase all attack damage received by 15%. Lose 1/8 maximum hp at the end of every turn.
+dizzy:Reduce all attack damage dealt by 15%. Reduce accuracy of all moves by 30%.
+confused:All moves are ineffective. All attacking moves deal damage to self.

@@ -1,0 +1,7 @@
+Clear own status effects at the end of every turn. When the opponent goes first, block 75% of their attack damage dealt by their attacking move this turn (doesn't count as turn-effect). When fighting alongside Jeremies and own HP > 50%, multiply all energy lost by using moves by 2.
+Wonderland_All attacking moves apply an amount of magic damage equivalent to 25% of the sum of physical and special attack stats. Heal an amount equivalent to 25% of the sum of physical and special defense stats when receiving attack.
+Requiem,Enchantment_40_90%_____Clear opponent's turn-effects and time-effects. Make the opponent asleep.
+Secret Interspace,Enchantment_50_95%_____Lower opponent's physical and special attack and speed stats (-1) and accuracy (-2). For four turns, at the end of every turn, heal 1/3 of maximum HP. Next two moves are non-missable.
+Psychic Chain,Special Attack_60_98%_5%_130_psychic_goes first (+2)_Absorb opponent's stats enhancement and transfer own stats reduction to opponent when effective. If in {Wonderland}, for the next time, block attack damage received.
+Wonderland,Enchantment_70_0%____always effective when fighting alongside Jeremies_Raise special attack, physical and special defense, and speed stats (+1). Enter {Wonderland} (effective for the entire battle and when absent) (affect teammate).
+Unparalleled Excellence,Special Attack_80_98%_15%_150_psychic_non-missable_Increase this attack damage by an amount equivalent to the amount of HP lost. Heal an amount of HP equivalent to this attack damage.

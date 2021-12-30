@@ -1,0 +1,7 @@
+sdajfkasdjfkadsjflkawejfkasdjfkdsjfkjawef.
+Kingdom of Light_sadfjkasdjfkasjdfkjasdkjfkdsjf.
+Move1,Enchantment_50_0%____always effective_
+Move2,Physical Attack_45_98%_10%_80_light__
+Move3,Enchantment_90_95%____ignore immunity;affect both opponents_
+Move4,Enchantment_80_0%_____
+Move5,Special Attack_95_98%_20%_150_light_non-missable;always effective;affect both opponents_

@@ -1,0 +1,7 @@
+When own HP > 50%, immune from status effects and reduce attack damage received and dealt by the opponent's attacking moves by 50%. Lower three of the opponent's stats (-1) by random when receiving attack. All moves heal 1/3 of maximum HP; double the effect when own HP < 50%.
+
+Hard Engage,Special Attack_30_95%_10%_70_dragon__Clear own stats reduction; if triggered, then deal 300 attack damage to the opponent. This attack damage will be no less than 200.
+Dragon Smash,Physical Attack_50_98%_10%_100_dragon_goes first (+2)_Clear opponent's stats enhancement. Multiply all damage received by the opponent by 2 for two turns if not defeating current opponent. Raise all stats (+1) if defeating current opponent.
+Dragon's Dignity,Enchantment_70_98%_____Make the opponent's next move ineffective. All moves absorb 200 HP from the opponent for three turns.
+Dragon's Will,Enchantment_90_95%____always effective_Raise all stats (+1); double the effect when own HP < 50%. Next attacking move will make a critical hit.
+Dragon Onslaught,Physical Attack_120_95%_10%_150_dragon_non-missable_Multiply this attack damage by (1+x%) when having x% of maximum HP.

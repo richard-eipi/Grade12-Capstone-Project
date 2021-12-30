@@ -1,0 +1,7 @@
+When full HP, no energy loss by using moves, and lower opponent's all stats (-1) when receiving attack. Reduce all attack damage received by 200. When the number of dead opponents = x, every move has a (5+5x)% chance of seckilling the opponent.
+
+Demon's Rage,Special Attack_55_95%_5%_85_ghost,elder_goes first (+2);non-missable_Clear opponent's stats enhancement; if not successful then heal 100% of maximum HP. Make all enchantment moves from the opponent ineffective for two turns.
+Doomsday Declaration,Enchantment_60_95%_____All moves absorb 1/3 of maximum HP from opponent for four turns; double the effect when own HP < 50%. Immune from and rebound status effects for five turns.
+Absolute Decimation,Enchantment_70_95%_____Raise special attack, physical and special defense, and speed stats (+1); double the effect when own HP = 100%. For the next turn, increase attack damage dealt by attacking moves by an amount equivalent to 1/3 of opponent's maximum HP.
+Power from Beyond,Physical Attack_95_98%_15%_135_ghost,elder__Multiply this attack damage by 2 if opponent doesn't have stats enhancement. If failed to defeat current opponent, for the next two turns, all attacking moves will make critical hits.
+Celestial Extermination,Special Attack_180_100%_10%_170_ghost,elder_non-missable;always effective;affect both opponents_Clear opponent's turn-effects; if successful then deal 300 attack damage. Next two moves will have a 10% higher chance of seckilling the opponent.

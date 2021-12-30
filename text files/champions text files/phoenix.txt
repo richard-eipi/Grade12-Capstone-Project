@@ -1,0 +1,7 @@
+All moves raise speed stats (+2). When having speed stats enhancement (+x), increase all attack damage dealt by 10x%. When dying for the first time, heal an amount of HP equivalent to the HP lost; if triggered, then multiply next attack damage by 2.
+
+Crimson Feathers,Special Attack_40_98%_5%_85_flying,fire_goes first (+1)_Have a 40% chance of making the opponent burn for the entire battle; if not triggered, then deal an amount of attack damage equivalent to 1/3 of opponent's maximum HP.
+Immortal Blaze,Enchantment_50_0%_____At the end of each turn for three turns, heal 100% of maximum HP when own HP < 50%. Gain a 400 HP shield.
+Hyperthermia,Physical Attack_60_95%_20%_140_flying,fire__Clear opponent's stats enhancement. Change the environment to "intense heat". Lower opponent's physical and special attack stats and accuracy (-2) when they have status effects.
+Cloud Nine,Enchantment_70_0%_____Raise special attack and physical and special defense stats (+1). Block all attack damage dealt by opponent's attacking moves when having stats enhancement for three turns. Immune from status effects for five turns.
+Embers of the Sun,Special Attack_100% HP-1_98%_20%_120_fire_non-missable;always effective_When in "intense heat" environment, increase this attack damage by an amount equivalent to the energy lost caused by using this move.

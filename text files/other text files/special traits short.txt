@@ -1,0 +1,13 @@
+born murderer:attacking moves 5% seckill
+sturdy body:p&s attack damage received - 8%
+quick tempered:p attack damage + 8%
+thoroughly cunning:s attack damage + 8%
+ghostly:8% opponent flinches when s attacking
+prickly:8% opponent paralyzed when p attacking
+malevolent:rate of critical hit + 8%
+strongly defiant:8% keeps 1 HP when dying under attack
+somewhat paranoid:+ 8% dodges opponent's moves.
+highly persistent:damage received - 30% when HP < 1/3
+bloodthirsty:damage + 30% when opponent's HP < 1/3
+total glutton:8% fully heals at the end of every turn
+counterattack master:8% rebounds attack damage received

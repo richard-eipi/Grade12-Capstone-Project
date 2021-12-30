@@ -1,0 +1,5 @@
+the warden:all stats + 10%
+the silver knight:attack damage + 40%
+the overwatcher:damage received - 25%
+the demon king:magic damage += 20% opponent's max HP
+the phoenix:maximum HP and healing effects + 15%

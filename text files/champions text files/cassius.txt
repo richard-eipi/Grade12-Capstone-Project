@@ -1,0 +1,7 @@
+For the first two turns of the battle, immune from the effects of the opponent's moves. Has {Energy Levels} (effective for the entire battle but reset once subbed out). When having x energy levels, reduce attack damage received by 10x%.
+Energy Levels_1. All moves go first (+1). 2. All moves are always effective. 3. All moves clear opponent's stats enhancement. 4. Immune from clearing turn-effects. 5. Heal 1/3 of maximum HP when receiving attack damage. 6. Block all magic damage received. 7. Multiply all attack damage by 2.
+Quantum Extinction Wave,Physical Attack_60_98%_70%_95_fighting_goes first (+1)_Rebound 150% of attack damage received for the next time. Gain 2 energy levels if critical hit; otherwise gain 1 energy level.
+Cosmological Mastery,Enchantment_70_95%_____Raise physical and special attack and speed stats (+2). Heal 100% of maximum HP. All moves gain 1 energy level for three turns.
+Seal of Soul,Enchantment_80_95%_____For the next two turns, at the start of each turn, absorb 200 HP from the opponent. Cut off all healing effects from the opponent for two turns.
+Trial of Gods,Special Attack_90_98%_15%_130_ghost,fighting_goes first (+2);non-missable;ignore immunity_Clear opponent's turn-effects. Make the opponent lose an amount of energy equivalent to 35% of their maximum HP.
+Apocalyptic Ultimatum,Physical Attack_150_100%_0%_160_ghost,fighting_non-missable;affect both opponents_Increase this attack damage by 30y % and lose y energy levels when having y energy levels.

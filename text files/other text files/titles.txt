@@ -1,0 +1,5 @@
+the warden:Increase all stats by 10%.
+the silver knight:Increase all attack damage dealt by attacking moves by 40%.
+the overwatcher:Reduce all damage received by 25%.
+the demon king:All moves apply an amount of magic damage equivalent to 20% of opponent's maximum HP.
+the phoenix:Increase maximum HP and healing effects by 15%.

@@ -1,0 +1,7 @@
+Heal an amount of HP equivalent to the total attack damage received this turn when dying (maximum 600). Block all magic damage received when own HP < 50%. All attack damage dealt by attacking moves will be no less than 200.
+
+Steely Puncture,Physical Attack_45_98%_50%_90_machine__Absorb opponent's physical and special attack stats (+-1); double the effect if critical hit. Forcefully make the opponent bleed.
+Revitalize,Enchantment_50_95%_____Inverse own stats reduction. Heal 50% of maximum HP, apply an equal amount of magic damage when own HP < 50%. Make the opponent flinch when receiving fatal attack damage for the next time.
+Twin Shadow Attack,Special Attack_100_98%_20%_70_dark_non-missable;strike 2 times_Cut off all turn-effects from the opponent for three turns.
+Night Guardian,Enchantment_75_0%____goes first (+1)_Prolong all turn-effects by one turn; Immune from status effects, stats reduction, and clearing turn-effects for three turns. (affect teammate)
+Into The Abyss,All-in Attack_200_98%_15%_120_machine,dark_non-missable;always effective_Multiply this attack damage by (1+x) when having died x times. Heal 100% of maximum HP when defeating current opponent.

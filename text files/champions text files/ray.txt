@@ -1,0 +1,7 @@
+All moves have a 20% higher chance of paralysing the opponent; if not triggered, then apply an amount of magic damage equivalent to 25% of own maximum HP and move next turn will go first (+1). Increase maximum HP by an amount equivalent to 30% of speed stats.
+
+Disconnection,Special Attack_45_98%_10%_120_electricity__Has a 40% chance of paralyzing the opponent. Clear opponent's turn-effects. Cut off all healing effects from the opponent for two turns.
+Thunder Touch,Physical Attack_50_95%_15%_120_electricity__Critical hit if going first. Clear opponent's stats enhancement; if not triggered, then has a 70% chance of paralyzing the opponent. Heal an amount of HP equivalent to this attack damage.
+Aurora,Enchantment_55_95%____always effective_Clear everyone's special buffs when effective. Raise physical and special defense stats (+2). Has an 80% chance of paralysing the opponent when receiving attack for three turns.
+Ray Shine,Enchantment_60_98%_____Raise physical attack and speed stats (+2). All moves heal 50% of maximum HP for two turns. For the next two turns, multiply all attack damage by 2.
+Daybreak Lightning,Physical Attack_80_95%_10%_160_electricity_non-missable;affect both opponents_Has a 10% chance of multiplying this attack damage by 4.

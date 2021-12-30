@@ -1,0 +1,12 @@
+simulation special:36,36,32,32,0,64
+ancient devils:0,56,18,18,34,74
+emperor's tempest:0,41,23,23,28,85
+dimensional sword:60,0,28,28,18,66
+magical manipulation:48,0,22,22,26,82
+immortal blaze:0,80,0,0,0,120
+dream of wonder:
+light of glory:
+water of immensity:
+grass of life:
+dark of eternity:
+fire of courage:
