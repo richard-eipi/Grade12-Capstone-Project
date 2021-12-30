@@ -13,4 +13,4 @@ Game modes:
 
 Images, soundtracks, and inspiration taken from https://seer.61.com.
 
-It's sphagetti code with dirty architecture, poor convention, and almost no comments. I consider it a miracle that it actually works. There are obviously lots of problems with program structure AND game design, which I will hopefully have a chance to modify in the future.
+It's sphagetti code with dirty architecture, poor convention, and almost no comments. I consider it a miracle that it actually works. There are obviously lots of problems with program structure AND game design, which I will hopefully have a chance to modify in the future. Also shout out to my mentor Ms Braaten!
