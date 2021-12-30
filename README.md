@@ -16,4 +16,4 @@ Game modes:
 
 Images, soundtracks, and inspiration taken from https://seer.61.com.
 
-It's sphagetti code with dirty architecture, poor convention, and almost no comments. I consider it a miracle that it actually runs, and I believe that this stinky game has great potentials to become a masterpiece. I'm looking forward to remaking it in the future.
+It's sphagetti code with dirty architecture, poor convention, and almost no comments. I consider it a miracle that it actually runs, and I believe that this stinky game has great potentials to become a masterpiece. Maybe some day in the future...
