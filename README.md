@@ -1,6 +1,7 @@
 # Richard Soma's Grade 12 Capstone Project at Sir Winston Churchill Secondary School, Vancouver, BC, Canada
 
 Language: Python 3.7.5
+
 Libraries: Pygame 1.9.6, Stackless 3.7.5
 
 General game design: It's basically Pokemon battles, but more complicated and strategic with a "slightly" different set of rules. There is no PVE or online PVP, just like playing chess with yourself...
