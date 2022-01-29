@@ -1,5 +1,7 @@
 # Richard Soma's Grade 12 Capstone Project at Sir Winston Churchill Secondary School, Vancouver, BC, Canada
 
+A short demo with images: https://github.com/richard-eipi/Grade12-Capstone-Project/blob/main/Short%20Demo%20with%20Images.pdf.
+
 Mentor & programming teacher: Ms Braaten
 
 Language: Python 3.7.5
